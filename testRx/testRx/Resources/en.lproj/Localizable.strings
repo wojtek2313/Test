@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  testRx
+
+  Created by Wojciech Kulas on 21/03/2024.
+  
+*/
+
+// MARK: - Main View
+
+"catalog_section" = "Catalog";
+"basket_section" = "Basket";
+"checkout_button" = "Checkout";
+"add_button_title" = "+";
+"remove_button_title" = "-";
+
+// MARK: - Item Models
+
+"potato_item_title" = "Potato";
+"eggs_item_title" = "Eggs";
+"milk_item_title" = "Milk";
+"banana_item_title" = "Banana";
